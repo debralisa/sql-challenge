@@ -31,4 +31,4 @@
 
 #EmployeeSQL folder containing: employee_schemata.sql (table schemata file), employeeERD.png (ERD diagram), employeequery.sql (query file for the 8 queries), data folder containing the 6 csv files for the corresponding tables.
 
-!(../employeeERD.png)
+
